@@ -1,0 +1,119 @@
+.joe{
+    color: coral;
+    text-align: center;
+    width: 100%;
+    height: 110px;
+    background-color: floralwhite;
+    position: absolute
+}
+.me{
+    height: 70px;
+    width: 300px;
+    background: floralwhite;
+    margin-left: 100px;
+    padding-top: 40px;
+    font-size: 30px;
+    float: left;
+    font-family: Georgia;
+}
+.next{
+    height: 70px;
+    width: 100px;
+    padding-top: 40px;
+    color: coral;
+    float: right;
+    font-family:sans-serif;
+}
+.some{
+    height: 70px;
+    width: 100px;
+    padding-top: 40px;
+    color: coral;
+    float: right;
+    font-family:sans-serif;
+}
+.last{
+    height: 70px;
+    width: 100px;
+    padding-top: 40px;
+    color: coral;
+    float: right;
+    font-family:sans-serif;
+}
+.all{
+    width: 100%;
+    height: 1080px;
+    background-image: url(funky-lines.png);
+
+}
+.inside{
+    height: 800px;
+    margin-left: 100px;
+    width: 960px;
+    background-color: floralwhite;
+    position: absolute;
+    margin-top: 160px
+}
+.itsjo{
+    height: 20px;
+    width: 145px;
+    padding: 50px;
+    color: coral;
+    font-size: 35px;
+}
+hr{
+    height: 2px;
+    width: 90%;
+    background-color: #dddddd;
+}
+.who{
+    margin-left: 48px;
+    position: relative;
+    margin-top: 20px;
+}
+.pics{
+    height: 40px;
+    width: 300px;
+    background-color: blue;
+    color: red;
+    position: absolute;
+    top: 69%;
+    left: 0%;
+    text-align: center;
+    padding-top: 20px;
+}
+.who1{
+    margin-left: 48px;
+    position: relative;
+    float: right;
+    top: -203px;
+    right: 250px;
+}
+.pics2{
+    height: 40px;
+    width: 300px;
+    background-color: blue;
+    color: red;
+    position: absolute;
+    top: 69%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bottom{
+    height: 20px;
+    width: 100%;
+    background
+}
