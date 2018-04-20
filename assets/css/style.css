@@ -3,13 +3,13 @@
     text-align: center;
     width: 100%;
     height: 110px;
-    background-color: white;
+    background-color: floralwhite;
     position: absolute
 }
 .me{
     height: 70px;
     width: 300px;
-    background: paleturquoise;
+    background-color: floralwhite;
     margin-left: 100px;
     padding-top: 40px;
     font-size: 30px;
@@ -43,14 +43,14 @@
 .all{
     width: 100%;
     height: 1080px;
-    background-color: #ffe6b3;
+    background-color: darkslategray;
 
 }
 .inside{
     height: 800px;
     margin-left: 100px;
     width: 960px;
-    background-color: paleturquoise;
+    background-color: floralwhite;
     position: absolute;
     margin-top: 160px
 }
@@ -79,4 +79,12 @@ p{
 }
 .both{
     display: inline-flex;
+}
+
+.bottom{
+    height: 20px;
+    width: 100%;
+    background: coral;
+    color: darkslategray;
+    text-align: center;
 }

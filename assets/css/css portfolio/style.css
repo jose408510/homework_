@@ -74,8 +74,8 @@ hr{
 .pics{
     height: 40px;
     width: 200px;
-    background-color: blue;
-    color: red;
+    background-color: darkslategray;
+    color: coral;
     position: absolute;
     top: 69%;
     left: 0%;
@@ -92,8 +92,8 @@ hr{
 .pics2{
     height: 40px;
     width: 200px;
-    background-color: blue;
-    color: red;
+    background-color: darkslategray;
+    color: coral;
     position: absolute;
     top: 69%;
     text-align: center;
@@ -110,8 +110,8 @@ hr{
 .pics3{
     height: 40px;
     width: 200px;
-    background-color: blue;
-    color: red;
+    background-color: darkslategray;
+    color: coral;
     position: absolute;
     top: 69%;
     text-align: center;
@@ -126,8 +126,8 @@ hr{
 .pics4{
     height: 40px;
     width: 200px;
-    background-color: blue;
-    color: red;
+    background-color: darkslategray;
+    color: coral;
     position: absolute;
     top: 69%;
     text-align: center;
@@ -145,8 +145,8 @@ hr{
 .pics5{
     height: 40px;
     width: 200px;
-    background-color: blue;
-    color: red;
+    background-color: darkslategray;
+    color: coral;
     position: absolute;
     top: 69%;
     text-align: center;
@@ -163,8 +163,8 @@ hr{
 .pics6{
     height: 40px;
     width: 200px;
-    background-color: blue;
-    color: red;
+    background-color: darkslategray;
+    color: coral;
     position: absolute;
     top: 69%;
     text-align: center;
@@ -172,19 +172,10 @@ hr{
 } 
 
 
-
-
-
-
-
-
-
-
-
-
-
 .bottom{
     height: 20px;
     width: 100%;
-    background: url()
+    background: coral;
+    color: darkslategray;
+    text-align: center;
 }
